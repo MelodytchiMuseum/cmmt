@@ -1,2 +1,0 @@
-# cmmt
-Simple website.
